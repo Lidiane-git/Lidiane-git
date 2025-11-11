@@ -37,5 +37,9 @@
 ✨ *Sempre em busca de novos aprendizados e desafios na área de tecnologia!*  
 
 -- Obrigada por Visitar!!!!
-![Funny Animals Lidiani](tenor.gif)
+
+
+
+![Funny Animals Lidia](https://media1.tenor.com/m/6Qj-rg1hhZUAAAAd/funny-animals-lidia.gif)
+
 
