@@ -1,16 +1,40 @@
 ## Hi there 👋
+# Lidiane Araújo
+## Hello, Devs!!
 
-<!--
-**Lidiane-git/Lidiane-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, eu sou a Lidiane!
 
-Here are some ideas to get you started:
+💻 Estudante de **Front-End** e   
+📘 Estudando **Inglês na Wizard**  
+🎯 Focada em construir uma carreira na área de **tecnologia e desenvolvimento web**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 O que estou aprendendo atualmente:
+- HTML, CSS e JavaScript  
+- React e boas práticas no Front-End  
+- Lógica de programação e versionamento com Git e GitHub  
+  
+
+---
+
+### 🧠 Sobre mim:
+- 💡 Sou curiosa, dedicada e adoro aprender coisas novas  
+- 📚 Estou em constante evolução, buscando sempre melhorar minhas habilidades  
+- 🌎 Moro em São José dos Pinhais 
+- 🎯 Meu objetivo é crescer profissionalmente na área de tecnologia  
+
+---
+
+
+
+### 📫 Como me encontrar:
+- 💼 LinkedIn: [Lidiane Dev](https://www.linkedin.com/in/lidiane-dev/)  
+
+
+
+
+✨ *Sempre em busca de novos aprendizados e desafios na área de tecnologia!*  
+
+-- Obrigada por Visitar!!!!
+![Lidiani busy at work](https://media1.tenor.com/m/6Qj-rg1hhZUAAAAd/funny-animals-lidia.gif)
